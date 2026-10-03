@@ -1,0 +1,2 @@
+# AdMob の「アカウント情報」にあるパブリッシャーIDに置き換えてください (例: pub-1234567890123456)
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
